@@ -36,5 +36,4 @@ CustomAlertBox.showCustomAlertBox(
 
 ## Additional information
 
-You can also check github code to get more information about this package.
-https://github.com/amirrahi29/flutter_beautiful_alert_dialog_package
+https://pub.dev/packages/beautiful_alert_dialog
