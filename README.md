@@ -11,29 +11,28 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+By this package, you can show beautiful and custom alert dialog box into your application.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+1. You can show alert dialog box.
+2. Decorate your dialog box according to your need.
 
 ## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+import 'package:beautiful_alert_dialog/beautiful_alert_dialog.dart';
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder. 
+1. beautiful_alert_dialog:
 
-```dart
-const like = 'sample';
-```
+2. CustomAlertBox.showCustomAlertBox(
+   context: context,
+   willDisplayWidget:
+   Container(
+   child: Text("Helo"),
+   )
+   );
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+You can also check github code to get more information about this package.
