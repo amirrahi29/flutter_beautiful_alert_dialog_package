@@ -26,7 +26,7 @@ import 'package:beautiful_alert_dialog/beautiful_alert_dialog.dart';
 1. beautiful_alert_dialog:
 2. use below code inside click onpress or ontap.
 
-3. CustomAlertBox.showCustomAlertBox(
+CustomAlertBox.showCustomAlertBox(
    context: context,
    willDisplayWidget:
    Container(
