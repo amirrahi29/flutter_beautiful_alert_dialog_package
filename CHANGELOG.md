@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.0.1 - 17/07/2022
 
-* TODO: Describe initial release.
+This is package is created to show alert dialog box quickly and easily into your project.

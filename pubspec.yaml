@@ -1,7 +1,8 @@
 name: beautiful_alert_dialog
-description: A beautiful and custom alert dialog box
+description: A beautiful and custom alert dialog box by this you can show alert dialog box easily.
 version: 0.0.1
-homepage:
+authors: Amir Rahi<amirrahi29@gmail.com>
+homepage: https://github.com/amirrahi29/flutter_beautiful_alert_dialog_package.git
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
