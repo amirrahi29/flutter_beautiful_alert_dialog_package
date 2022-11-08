@@ -13,11 +13,6 @@ and the Flutter guide for
 
 By this package, you can show beautiful and custom alert dialog box into your application.
 
-## Features
-
-1. You can show alert dialog box.
-2. Decorate your dialog box according to your need.
-
 ## Getting started
 import 'package:beautiful_alert_dialog/beautiful_alert_dialog.dart';
 
@@ -35,6 +30,11 @@ CustomAlertBox.showCustomAlertBox(
    )
 );
 ```
+
+## Features
+
+1. You can show alert dialog box.
+2. Decorate your dialog box according to your need.
 
 ## Additional information
 
