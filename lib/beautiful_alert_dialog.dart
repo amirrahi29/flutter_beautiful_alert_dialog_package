@@ -3,7 +3,6 @@ library beautiful_alert_dialog;
 import 'package:flutter/material.dart';
 
 class CustomAlertBox {
-
   static Future showCustomAlertBox({
     @required BuildContext? context,
     @required Widget? willDisplayWidget,
@@ -19,13 +18,10 @@ class CustomAlertBox {
             ),
             content: Column(
               mainAxisSize: MainAxisSize.min,
-              children: <Widget>[
-                willDisplayWidget!
-              ],
+              children: <Widget>[willDisplayWidget!],
             ),
             elevation: 10,
           );
         });
   }
-
 }

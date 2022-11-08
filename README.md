@@ -26,6 +26,7 @@ import 'package:beautiful_alert_dialog/beautiful_alert_dialog.dart';
 1. beautiful_alert_dialog:
 2. use below code inside click onpress or ontap.
 
+```
 CustomAlertBox.showCustomAlertBox(
    context: context,
    willDisplayWidget:
@@ -33,6 +34,7 @@ CustomAlertBox.showCustomAlertBox(
    child: Text("Helo"),
    )
 );
+```
 
 ## Additional information
 
